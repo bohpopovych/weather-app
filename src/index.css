@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.map-container {
+  height: 100vh;
+}
+
+.search {
+  width: 30vw;
+  left: 20px;
+  top: 20px;
+  position: fixed !important;
+  z-index: 1;
+}
